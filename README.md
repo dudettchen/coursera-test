@@ -1,5 +1,5 @@
-+# coursera-test
- +coursera test repository
+# coursera-test
+coursera test repository
 
 ## Welcome to GitHub Pages
 
